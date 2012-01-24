@@ -4,7 +4,8 @@
   "description": "Ads Daemon for LoudDoor",
   "main": "index",
   "devDependencies": {
-  	"zmq": "*"
+  	"zmq": "2.0.0",
+	"zip": "0.0.6"
   },
   "engines": {
 	  "node": ">= 0.6.0"
