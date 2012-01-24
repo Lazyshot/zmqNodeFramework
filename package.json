@@ -1,0 +1,15 @@
+{
+  "name": "ld.ads",
+  "version": "0.1.0",
+  "description": "Ads Daemon for LoudDoor",
+  "main": "index",
+  "devDependencies": {
+  	"zmq": "*"
+  },
+  "engines": {
+	  "node": ">= 0.6.0"
+  },
+  "contributors": [
+	  "Bryan Peterson <bryan@louddoor.com>"
+  ]
+}

@@ -1,0 +1,19 @@
+[
+	{
+		"name": "sentences",
+		"taskFile": "sentences.js",
+		"numWorkers": 5
+	},
+
+	{
+		"name": "split",
+		"taskFile": "split.js",
+		"numWorkers": 5
+	},
+
+	{
+		"name": "count",
+		"taskFile": "count.js",
+		"numWorkers": 5
+	}
+]
