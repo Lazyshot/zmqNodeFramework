@@ -1,0 +1,5 @@
+{
+	"name": "count",
+	"taskPath": "count",
+	"numWorkers": 5
+}

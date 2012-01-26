@@ -1,0 +1,5 @@
+{
+	"name": "sentences",
+	"taskPath": "sentences",
+	"numWorkers": 5
+}

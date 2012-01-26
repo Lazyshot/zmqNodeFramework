@@ -1,0 +1,5 @@
+{
+	"name": "split",
+	"taskPath": "split",
+	"numWorkers": 5
+}
